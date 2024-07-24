@@ -1,5 +1,8 @@
 # The Iterative Cycle Of GPT Prompt Engineering - Summary Version
 
+
+
+
 The Iterative Cycle of GPT Prompt Engineering describes a workflow for achieving iteratively better GPT outputs.
 
 It involves the following steps:
@@ -17,7 +20,12 @@ In a shortened version of the process the user runs the prompt through the promp
 
 Eventually the GPT will run out of ideas for improving the prompt. At this point the prompt is finished and is ready to be committed to a prompt engineering library and used in a "production" generative AI enhanced setting.
 
+## Schematic
+
+![Schematic](schematics/1/diagram.png)
+
 ## Authorship
 
 Daniel Rosehill
+
 public at danielrosehill dot com

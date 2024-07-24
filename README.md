@@ -23,6 +23,10 @@ GPT configuration text
 Schematics
 -  `/schematics`
 
+## Schematic
+
+![Schematic](schematics/1/diagram.png)
+
 ## Authorship
 
 By:
