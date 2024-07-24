@@ -8,6 +8,9 @@ The workflow described here is simple but it might nevertheless provided a good 
 
 ## Contents 
 
+Summary
+- `summary.md`
+
 Workflow description
 -  `workflow.md`
 
